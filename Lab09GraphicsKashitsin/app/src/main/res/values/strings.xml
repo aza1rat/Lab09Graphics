@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab09-Graphics Kashitsin</string>
+    <string name="amount_points">Кол-во точек</string>
+    <string name="xmax">X max:</string>
+    <string name="xmin">X min:</string>
+    <string name="graphic_settings">Настройка графика</string>
+    <string name="graphic_choice">Выбор функции графика</string>
+    <string name="graphic_zoom_in">Приблизить</string>
+    <string name="graphic_zoom_out">Отдалить</string>
+    <string name="save">Сохранить</string>
+    <string name="close">Закрыть</string>
+    <string name="author">Кашицын, 393</string>
+</resources>

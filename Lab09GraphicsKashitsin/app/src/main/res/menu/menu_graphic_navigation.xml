@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_settings"
+        android:icon="@android:drawable/ic_menu_manage"
+        android:title="@string/graphic_settings"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/item_choice"
+        android:icon="@android:drawable/ic_popup_sync"
+        android:title="@string/graphic_choice"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/item_zoom_in"
+        android:icon="@android:drawable/ic_menu_zoom"
+        android:title="@string/graphic_zoom_in"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/item_zoom_out"
+        android:icon="@android:drawable/ic_search_category_default"
+        android:title="@string/graphic_zoom_out"
+        app:showAsAction="always" />
+</menu>
